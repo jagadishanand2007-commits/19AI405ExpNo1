@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: BALAJI R </h3>
-<h3>Register Number: 212224050004</h3>
+<h3>Name: Jagadish Janardhanan A</h3>
+<h3>Register Number: 212224060102</h3>
 
 
 <h3>AIM:</h3>
